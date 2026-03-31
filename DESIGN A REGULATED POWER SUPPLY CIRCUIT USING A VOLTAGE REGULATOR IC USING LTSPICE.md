@@ -10,6 +10,7 @@
 
 ## Graph
 
+<img width="411" height="439" alt="image" src="https://github.com/user-attachments/assets/393e5afe-7f8d-415c-b89e-2fada5e372c4" />
 
 <img width="853" height="183" alt="image" src="https://github.com/user-attachments/assets/ee91e1c1-171c-4208-83ee-e61ea1ba626c" />
 
